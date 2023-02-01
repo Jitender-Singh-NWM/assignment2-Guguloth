@@ -38,5 +38,28 @@ If you are thinking of coutries to visit,below is the list of countries that are
 
 >Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.-*Albert Einstein*
 
+---
+## PHP code fencing example:
+>[PHP - error logging through htaccess - Error 500](https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500).
+
+<https://stackoverflow.com/questions/64077699/php-error-logging-through-htaccess-error-500>
+
+
+
+```
+
+# display no errs to user
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+# log to file
+php_flag log_errors on
+php_value error_log /location/to/php_error.log
+
+
+```
+
+[CSS Snippet Link](https://css-tricks.com/snippets/htaccess/php-error-logging/)
+
 
 [Go to About me](AboutMe.md)
