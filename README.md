@@ -31,5 +31,12 @@ If you are thinking of coutries to visit,below is the list of countries that are
 |India      |India is a country of diversity ,there are many places for vacation.Shimla is one of the popular cities to visit in India.|5|
 |Porugal    |Portugal officially the Portuguese Republic ,is a country located on the Iberian Peninsula, in southwestern Europe, and whose territory also includes the Atlantic archipelagos of the Azores and Madeira.Alentejo is popular destination for vacation in portugal|6|
 
+---
+## Funny Quotes
+
+>Behind every great man is a woman rolling her eyes.-*Jim Carey*
+
+>Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.-*Albert Einstein*
+
 
 [Go to About me](AboutMe.md)
